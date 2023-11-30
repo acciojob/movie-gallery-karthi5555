@@ -9,3 +9,8 @@
 	width: 75px;
 	height: 75px;
 }
+.col-sm-4,.img-fluid{
+	display: inline ;
+	width: 75px;
+	height: 75px;
+}
