@@ -1,2 +1,11 @@
-
 /* Your CSS Code here. */
+.row,.col-sm-1,.img-fluid{
+	display: inline ;
+	width: 75px;
+	height: 75px;
+}
+.row,.col-sm-2,.img-fluid{
+	display: inline ;
+	width: 75px;
+	height: 75px;
+}
